@@ -111,7 +111,7 @@ print("For population =70,000,we predict a profit a profit of $"+str(round(predi
 ![image](https://user-images.githubusercontent.com/113915622/230005338-c53add0c-2910-4efe-b6ec-2ab107f1a25b.png)
 
 ## Profit Prediction Graph
-![image](https://user-images.githubusercontent.com/113915622/230005400-d4cc72f1-096d-41cc-ae59-877c57a37121.png)
+![image](https://user-images.githubusercontent.com/113915622/230009186-9da7c2c5-3432-4be2-8e89-e7d1d4019dce.png)
 
 ## Profit for the Population 35,000
 ![image](https://user-images.githubusercontent.com/113915622/230005457-6eab3add-4c7c-48b4-a836-76fb8bdef66f.png)
