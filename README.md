@@ -23,8 +23,8 @@ Developed by:
 RegisterNumber:
 /*
 Program to implement the linear regression using gradient descent.
-Developed by:212222240081
-RegisterNumber:RAGUNATH R
+Developed by:212223110001
+RegisterNumber:ADITHYA V
 
 import numpy as np
 import matplotlib.pyplot as plt
